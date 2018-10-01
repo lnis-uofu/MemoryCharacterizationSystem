@@ -1,0 +1,5 @@
+Added Component: Designator=C100(C1206)
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=POWER Pin=C100-2
+Added Net: Name=POWER
+Added Member To Class: ClassName=RWcircuit_1 Member=Component C100 Cap Semi

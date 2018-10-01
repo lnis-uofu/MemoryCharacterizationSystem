@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\files0\data\bisconti\My Documents\ReRAM_Board_3\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1-nonplated.txt|LayerPairs=gtl,gbl

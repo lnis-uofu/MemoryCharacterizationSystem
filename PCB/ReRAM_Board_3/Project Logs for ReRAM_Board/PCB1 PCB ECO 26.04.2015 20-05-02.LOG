@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=CELL0 Pin=Mem1-1
+Removed Pin From Net: NetName=CELL1 Pin=Mem1-2
+Removed Pin From Net: NetName=CELL2 Pin=Mem1-3
+Removed Pin From Net: NetName=CELL3 Pin=Mem1-4
+Removed Pin From Net: NetName=CELL4 Pin=Mem1-5
+Removed Pin From Net: NetName=CELL5 Pin=Mem1-6
+Removed Pin From Net: NetName=CELL6 Pin=Mem1-7
+Removed Pin From Net: NetName=CELL7 Pin=Mem1-8
+Removed Pin From Net: NetName=CELL8 Pin=Mem1-9
+Removed Pin From Net: NetName=CELL9 Pin=Mem1-10
+Removed Pin From Net: NetName=CELL10 Pin=Mem1-11
+Removed Pin From Net: NetName=GND Pin=Mem1-12
+Removed Pin From Net: NetName=CELL11 Pin=Mem1-13
+Removed Pin From Net: NetName=CELL12 Pin=Mem1-14
+Removed Pin From Net: NetName=CELL13 Pin=Mem1-15
+Removed Pin From Net: NetName=CELL14 Pin=Mem1-16
+Removed Pin From Net: NetName=CELL15 Pin=Mem1-17
+Removed Pin From Net: NetName=CELL16 Pin=Mem1-18
+Removed Pin From Net: NetName=CELL17 Pin=Mem1-19
+Removed Pin From Net: NetName=CELL18 Pin=Mem1-20
+Removed Pin From Net: NetName=CELL19 Pin=Mem1-21
+Removed Pin From Net: NetName=CELL20 Pin=Mem1-22
+Removed Pin From Net: NetName=CELL21 Pin=Mem1-23
+Removed Pin From Net: NetName=CELL22 Pin=Mem1-24
+Removed Pin From Net: NetName=CELL23 Pin=Mem1-25
+Removed Pin From Net: NetName=CELL24 Pin=Mem1-26
+Removed Pin From Net: NetName=CELL25 Pin=Mem1-27
+Removed Pin From Net: NetName=CELL26 Pin=Mem1-28
+Removed Pin From Net: NetName=CELL27 Pin=Mem1-29
+Removed Pin From Net: NetName=CELL28 Pin=Mem1-30
+Removed Pin From Net: NetName=CELL29 Pin=Mem1-31
+Removed Pin From Net: NetName=CELL30 Pin=Mem1-32
+Removed Pin From Net: NetName=GND Pin=Mem1-33
+Removed Pin From Net: NetName=CELL31 Pin=Mem1-34
+Removed Pin From Net: NetName=CELL32 Pin=Mem1-35
+Removed Pin From Net: NetName=CELL33 Pin=Mem1-36
+Removed Pin From Net: NetName=CELL34 Pin=Mem1-37
+Removed Pin From Net: NetName=CELL35 Pin=Mem1-38
+Removed Pin From Net: NetName=CELL36 Pin=Mem1-39
+Removed Pin From Net: NetName=CELL37 Pin=Mem1-40
+Removed Pin From Net: NetName=CELL38 Pin=Mem1-41
+Removed Pin From Net: NetName=CELL39 Pin=Mem1-42
+Removed Pin From Net: NetName=CELL40 Pin=Mem1-43
+Removed Pin From Net: NetName=CELL41 Pin=Mem1-44
+Removed Pin From Net: NetName=CELL42 Pin=Mem1-45
+Removed Pin From Net: NetName=CELL43 Pin=Mem1-46
+Removed Pin From Net: NetName=CELL44 Pin=Mem1-47
+Removed Pin From Net: NetName=CELL45 Pin=Mem1-48
+Removed Pin From Net: NetName=CELL46 Pin=Mem1-49
+Removed Pin From Net: NetName=CELL47 Pin=Mem1-50
+Removed Pin From Net: NetName=CELL48 Pin=Mem1-51
+Removed Pin From Net: NetName=CELL49 Pin=Mem1-52
+Removed Pin From Net: NetName=CELL50 Pin=Mem1-53
+Removed Pin From Net: NetName=GND Pin=Mem1-54
+Removed Pin From Net: NetName=CELL51 Pin=Mem1-55
+Removed Pin From Net: NetName=CELL52 Pin=Mem1-56
+Removed Pin From Net: NetName=CELL53 Pin=Mem1-57
+Removed Pin From Net: NetName=CELL54 Pin=Mem1-58
+Removed Pin From Net: NetName=CELL55 Pin=Mem1-59
+Removed Pin From Net: NetName=CELL56 Pin=Mem1-60
+Removed Pin From Net: NetName=CELL57 Pin=Mem1-61
+Removed Pin From Net: NetName=CELL58 Pin=Mem1-62
+Removed Pin From Net: NetName=CELL59 Pin=Mem1-63
+Removed Pin From Net: NetName=CELL60 Pin=Mem1-64
+Removed Pin From Net: NetName=CELL61 Pin=Mem1-65
+Removed Pin From Net: NetName=CELL62 Pin=Mem1-66
+Removed Pin From Net: NetName=CELL63 Pin=Mem1-67
+Removed Pin From Net: NetName=CELL64 Pin=Mem1-68
+Removed Pin From Net: NetName=CELL65 Pin=Mem1-69
+Removed Pin From Net: NetName=CELL66 Pin=Mem1-70
+Removed Pin From Net: NetName=CELL67 Pin=Mem1-71
+Removed Pin From Net: NetName=CELL68 Pin=Mem1-72
+Removed Pin From Net: NetName=CELL69 Pin=Mem1-73
+Removed Pin From Net: NetName=CELL70 Pin=Mem1-74
+Removed Pin From Net: NetName=GND Pin=Mem1-75
+Removed Pin From Net: NetName=CELL71 Pin=Mem1-76
+Removed Pin From Net: NetName=CELL72 Pin=Mem1-77
+Removed Pin From Net: NetName=CELL73 Pin=Mem1-78
+Removed Pin From Net: NetName=CELL74 Pin=Mem1-79
+Removed Pin From Net: NetName=CELL75 Pin=Mem1-80
+Removed Pin From Net: NetName=CELL76 Pin=Mem1-81
+Removed Pin From Net: NetName=CELL77 Pin=Mem1-82
+Removed Pin From Net: NetName=CELL78 Pin=Mem1-83
+Removed Pin From Net: NetName=CELL79 Pin=Mem1-84
+Added Component: Designator=C25(C1206)
+Added Component: Designator=C26(C1206)
+Added Component: Designator=MUX7(TSOP65P640X120-28N)
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC1_2 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC4_1 Pin=C26-2
+Added Pin To Net: NetName=NetC1_2 Pin=MUX7-1
+Added Pin To Net: NetName=GND Pin=MUX7-12
+Added Pin To Net: NetName=A3 Pin=MUX7-14
+Added Pin To Net: NetName=A2 Pin=MUX7-15
+Added Pin To Net: NetName=A1 Pin=MUX7-16
+Added Pin To Net: NetName=A0 Pin=MUX7-17
+Added Pin To Net: NetName=NetC4_1 Pin=MUX7-27
+Added Pin To Net: NetName=NetMUX1_28 Pin=MUX7-28
+Added Pin To Net: NetName=CELL80 Pin=MUX7-19
+Added Net: Name=CELL80
+Added Pin To Net: NetName=CELL81 Pin=MUX7-20
+Added Net: Name=CELL81
+Added Pin To Net: NetName=CELL82 Pin=MUX7-21
+Added Net: Name=CELL82
+Added Pin To Net: NetName=CELL83 Pin=MUX7-22
+Added Net: Name=CELL83
+Added Pin To Net: NetName=CELL84 Pin=MUX7-23
+Added Net: Name=CELL84
+Added Pin To Net: NetName=CELL85 Pin=MUX7-24
+Added Net: Name=CELL85
+Added Pin To Net: NetName=CELL86 Pin=MUX7-25
+Added Net: Name=CELL86
+Added Pin To Net: NetName=CELL87 Pin=MUX7-26
+Added Net: Name=CELL87
+Added Pin To Net: NetName=CELL88 Pin=MUX7-11
+Added Net: Name=CELL88
+Added Pin To Net: NetName=CELL89 Pin=MUX7-10
+Added Net: Name=CELL89
+Added Pin To Net: NetName=CELL90 Pin=MUX7-9
+Added Net: Name=CELL90
+Added Pin To Net: NetName=CELL91 Pin=MUX7-8
+Added Net: Name=CELL91
+Added Pin To Net: NetName=CELL92 Pin=MUX7-7
+Added Net: Name=CELL92
+Added Pin To Net: NetName=CELL93 Pin=MUX7-6
+Added Net: Name=CELL93
+Added Pin To Net: NetName=CELL94 Pin=MUX7-5
+Added Net: Name=CELL94
+Added Pin To Net: NetName=CELL95 Pin=MUX7-4
+Added Net: Name=CELL95
+Added Pin To Net: NetName=S5 Pin=FPGA_Board1-39
+Added Pin To Net: NetName=S5 Pin=MUX7-18
+Added Pin To Net: NetName=S5 Pin=P2-10
+Added Net: Name=S5
+Change Class Name : Old Net Name=CELL[0..79] New Net Name=CELL[0..95]
+Change Class Name : Old Net Name=S[0..4] New Net Name=S[0..5]
+Added Member To Class: ClassName=AddressingMuxes_2 Member=Component C25 Cap Semi
+Added Member To Class: ClassName=AddressingMuxes_2 Member=Component C26 Cap Semi
+Added Member To Class: ClassName=AddressingMuxes_2 Member=Component MUX7 ADG1606
+Added Member To Class: ClassName=CELL[0..95] Member=Element[80]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[81]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[82]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[83]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[84]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[85]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[86]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[87]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[88]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[89]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[90]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[91]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[92]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[93]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[94]: CELL
+Added Member To Class: ClassName=CELL[0..95] Member=Element[95]: CELL
+Added Member To Class: ClassName=S[0..5] Member=Element[5]: S

@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=RWcircuit_2 Member=BNC
+Removed Member From Class: ClassName=RWcircuit_1 Member=Vdd
+Removed Member From Class: ClassName=FPGA_board_and_power Member=Vss
+Change Component Designator: OldDesignator=3.3V NewDesignator=GR2
+Change Component Designator: OldDesignator=Ban NewDesignator=P6
+Change Component Designator: OldDesignator=Ban NewDesignator=P12
+Change Component Designator: OldDesignator=Ban NewDesignator=P14
+Change Component Designator: OldDesignator=BJT1 NewDesignator=P10
+Change Component Designator: OldDesignator=BJT2 NewDesignator=P11
+Change Component Designator: OldDesignator=BNC NewDesignator=P5
+Change Component Designator: OldDesignator=BNC NewDesignator=P8
+Change Component Designator: OldDesignator=BNC NewDesignator=P17
+Change Component Designator: OldDesignator=BNC NewDesignator=P19
+Change Component Designator: OldDesignator=Brdg NewDesignator=P18
+Change Component Designator: OldDesignator=C+ NewDesignator=T7
+Change Component Designator: OldDesignator=C+ NewDesignator=T11
+Change Component Designator: OldDesignator=C- NewDesignator=T5
+Change Component Designator: OldDesignator=C- NewDesignator=T12
+Change Component Designator: OldDesignator=Co NewDesignator=T6
+Change Component Designator: OldDesignator=Co NewDesignator=T8
+Change Component Designator: OldDesignator=DAC NewDesignator=P20
+Change Component Designator: OldDesignator=IN+ NewDesignator=T10
+Change Component Designator: OldDesignator=IN- NewDesignator=T9
+Change Component Designator: OldDesignator=Pot1 NewDesignator=P15
+Change Component Designator: OldDesignator=Pot2 NewDesignator=P16
+Change Component Designator: OldDesignator=PWR NewDesignator=RD2
+Change Component Designator: OldDesignator=Vb NewDesignator=T4
+Change Component Designator: OldDesignator=Vdd NewDesignator=GR3
+Change Component Designator: OldDesignator=Vdd NewDesignator=P3
+Change Component Designator: OldDesignator=Vdd NewDesignator=P7
+Change Component Designator: OldDesignator=Vdd NewDesignator=P9
+Change Component Designator: OldDesignator=Vf NewDesignator=T3
+Change Component Designator: OldDesignator=Vrs NewDesignator=T2
+Change Component Designator: OldDesignator=Vss NewDesignator=GR4
+Change Component Designator: OldDesignator=Vss NewDesignator=P4
+Change Component Designator: OldDesignator=Vss NewDesignator=P13
+Change Component Designator: OldDesignator=Vst NewDesignator=T1
+Added Component: Designator=Q1(SOT-23B_N)
+Added Component: Designator=Q2(SOT-23B_N)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=Q2-3
+Added Pin To Net: NetName=NetP10_2 Pin=R13-2
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=Q1-1
+Added Net: Name=NetP11_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R18-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R13-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R17-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component GR3 
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component GR4 
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component P4 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P5 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P6 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P7 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P9 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P14 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P17 Header 2
+Added Member To Class: ClassName=RWcircuit_2 Member=Component P19 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component Q1 PNP
+Added Member To Class: ClassName=RWcircuit_1 Member=Component Q2 PNP
+Added Member To Class: ClassName=RWcircuit_1 Member=Component R13 Res3
+Added Member To Class: ClassName=RWcircuit_1 Member=Component R17 Res3
+Added Member To Class: ClassName=RWcircuit_1 Member=Component R18 Res3
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T8 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T11 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T12 Test_point

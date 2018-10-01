@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=FPGA_board_and_power Member=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C11
+Added Pin To Net: NetName=3.3V Pin=C20-2
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component C11 Cap2

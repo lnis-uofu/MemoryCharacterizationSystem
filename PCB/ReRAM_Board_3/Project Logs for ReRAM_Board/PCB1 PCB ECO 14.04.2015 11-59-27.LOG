@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=5V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Member From Class: ClassName=FPGA_board_and_power Member=C11
+Removed Member From Class: ClassName=FPGA_board_and_power Member=C?
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component Footprint: Designator=C12 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C13 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C14 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C15 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Comment : Designator=C12 Old Comment=Cap Pol1 New Comment=Cap2
+Change Component Comment : Designator=C13 Old Comment=Cap Pol1 New Comment=Cap2
+Change Component Comment : Designator=C14 Old Comment=Cap Pol1 New Comment=Cap2
+Change Component Comment : Designator=C15 Old Comment=Cap Pol1 New Comment=Cap2
+Added Component: Designator=C16(CAPR5-4X5)
+Added Pin To Net: NetName=5V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component C16 Cap2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MODERW0 Pin=FPGA_Board1-2
+Removed Pin From Net: NetName=MODERW1 Pin=FPGA_Board1-3
+Added Pin To Net: NetName=NetMUX6_18 Pin=MUX6-18
+Added Net: Name=NetMUX6_18

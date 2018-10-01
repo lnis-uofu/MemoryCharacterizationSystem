@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=5V Pin=C12-1
+Removed Pin From Net: NetName=3.3V Pin=C13-1
+Removed Pin From Net: NetName=VSUPPLY Pin=C14-1
+Removed Pin From Net: NetName=-5V Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=D1-3
+Removed Pin From Net: NetName=VRESET Pin=P1-1
+Removed Pin From Net: NetName=VRESET Pin=P2-1
+Removed Pin From Net: NetName=VSET Pin=P6-2
+Removed Pin From Net: NetName=NetMUX6_22 Pin=P8-2
+Removed Pin From Net: NetName=NetBNC3_1 Pin=P9-1
+Removed Pin From Net: NetName=NetMUX6_22 Pin=P9-2
+Removed Pin From Net: NetName=5V Pin=R1-2
+Removed Pin From Net: NetName=-5V Pin=R2-CW
+Removed Member From Class: ClassName=RWcircuit_2 Member=D1
+Removed Member From Class: ClassName=RWcircuit_1 Member=P6
+Removed Member From Class: ClassName=RWcircuit_1 Member=R2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 2 New DesignItemId=Header 24
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 2 New DesignItemId=Header 24
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=HDR1X24
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X2 New Footprint=HDR1X24
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Header 24
+Change Component Comment : Designator=P2 Old Comment=Header 2 New Comment=Header 24
+Change Component Designator: OldDesignator=B1 NewDesignator=B3
+Change Component Designator: OldDesignator=B3 NewDesignator=B1
+Change Component Designator: OldDesignator=BNC1 NewDesignator=BNC2
+Change Component Designator: OldDesignator=BNC2 NewDesignator=BNC1
+Change Component Designator: OldDesignator=DC1 NewDesignator=DC2
+Change Component Designator: OldDesignator=DC2 NewDesignator=DC1
+Change Component Designator: OldDesignator=P3 NewDesignator=P11
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Change Component Designator: OldDesignator=P10 NewDesignator=P18
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Component: Designator=BNC4(BNC_RA CON)
+Added Component: Designator=C15(CAPR5-4X5)
+Added Component: Designator=D?(3.5X2.8X1.9)
+Added Component: Designator=P6(HDR1X2)
+Added Component: Designator=P7(HDR1X2)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P12(HDR1X2)
+Added Component: Designator=P13(HDR1X2)
+Added Component: Designator=P14(HDR1X2)
+Added Component: Designator=P15(HDR1X2)
+Added Component: Designator=P16(HDR1X2)
+Added Component: Designator=P17(HDR1X2)
+Added Component: Designator=R3(POT4MM-2)
+Added Pin To Net: NetName=GND Pin=BNC4-2
+Added Pin To Net: NetName=GND Pin=BNC4-2
+Added Pin To Net: NetName=GND Pin=BNC4-2
+Added Pin To Net: NetName=3.3V Pin=C12-1
+Added Pin To Net: NetName=VSUPPLY Pin=C13-1
+Added Pin To Net: NetName=-5V Pin=C14-1
+Added Pin To Net: NetName=5V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=MODERW0 Pin=P1-11
+Added Pin To Net: NetName=MODERW1 Pin=P1-12
+Added Pin To Net: NetName=DAC0 Pin=P1-18
+Added Pin To Net: NetName=DAC1 Pin=P1-19
+Added Pin To Net: NetName=DAC2 Pin=P1-20
+Added Pin To Net: NetName=DAC3 Pin=P1-21
+Added Pin To Net: NetName=DAC4 Pin=P1-22
+Added Pin To Net: NetName=DAC5 Pin=P1-23
+Added Pin To Net: NetName=VSUPPLY Pin=P1-24
+Added Pin To Net: NetName=A0 Pin=P2-1
+Added Pin To Net: NetName=A1 Pin=P2-2
+Added Pin To Net: NetName=A2 Pin=P2-3
+Added Pin To Net: NetName=A3 Pin=P2-4
+Added Pin To Net: NetName=S0 Pin=P2-5
+Added Pin To Net: NetName=S1 Pin=P2-6
+Added Pin To Net: NetName=S2 Pin=P2-7
+Added Pin To Net: NetName=S3 Pin=P2-8
+Added Pin To Net: NetName=S4 Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-24
+Added Pin To Net: NetName=VRESET Pin=P6-1
+Added Pin To Net: NetName=5V Pin=P7-2
+Added Pin To Net: NetName=VFORM Pin=P9-1
+Added Pin To Net: NetName=VRESET Pin=P10-1
+Added Pin To Net: NetName=VFORM Pin=P14-1
+Added Pin To Net: NetName=VFORM Pin=P15-1
+Added Pin To Net: NetName=NetBNC3_1 Pin=P15-2
+Added Pin To Net: NetName=NetMUX6_22 Pin=P16-2
+Added Pin To Net: NetName=NetMUX6_22 Pin=P17-2
+Added Pin To Net: NetName=GND Pin=R3-CCW
+Change Net Name : Old Net Name=NetB3_1 New Net Name=NetB1_1
+Change Net Name : Old Net Name=NetBNC2_1 New Net Name=NetBNC1_1
+Change Net Name : Old Net Name=NetP10_1 New Net Name=NetP18_1
+Added Pin To Net: NetName=DACASELECT Pin=DACA1-10
+Added Pin To Net: NetName=DACASELECT Pin=FPGA_Board1-16
+Added Pin To Net: NetName=DACASELECT Pin=P1-16
+Added Net: Name=DACASELECT
+Added Pin To Net: NetName=DACBSELECT Pin=DACB1-10
+Added Pin To Net: NetName=DACBSELECT Pin=FPGA_Board1-17
+Added Pin To Net: NetName=DACBSELECT Pin=P1-17
+Added Net: Name=DACBSELECT
+Added Pin To Net: NetName=ENABLERW Pin=FPGA_Board1-10
+Added Pin To Net: NetName=ENABLERW Pin=MUX6-18
+Added Pin To Net: NetName=ENABLERW Pin=P1-10
+Added Net: Name=ENABLERW
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_1 Pin=P10-2
+Added Net: Name=NetB3_1
+Added Pin To Net: NetName=NetB4_1 Pin=P12-2
+Added Net: Name=NetB4_1
+Added Pin To Net: NetName=NetBNC2_1 Pin=BNC2-1
+Added Pin To Net: NetName=NetBNC2_1 Pin=P6-2
+Added Net: Name=NetBNC2_1
+Added Pin To Net: NetName=NetBNC4_1 Pin=BNC4-1
+Added Pin To Net: NetName=NetBNC4_1 Pin=P17-1
+Added Net: Name=NetBNC4_1
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=P8-2
+Added Pin To Net: NetName=NetP7_1 Pin=P12-1
+Added Pin To Net: NetName=NetP7_1 Pin=P13-2
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP13_1 Pin=P13-1
+Added Pin To Net: NetName=NetP13_1 Pin=R1-CCW
+Added Net: Name=NetP13_1
+Added Pin To Net: NetName=NetP14_2 Pin=P14-2
+Added Pin To Net: NetName=NetP14_2 Pin=R1-CW
+Added Net: Name=NetP14_2
+Added Pin To Net: NetName=NetP16_1 Pin=P16-1
+Added Pin To Net: NetName=NetP16_1 Pin=R4-1
+Added Pin To Net: NetName=NetP16_1 Pin=U1-6
+Added Net: Name=NetP16_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-CW
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PIO01 Pin=FPGA_Board1-1
+Added Pin To Net: NetName=PIO01 Pin=P1-1
+Added Net: Name=PIO01
+Added Pin To Net: NetName=PIO02 Pin=FPGA_Board1-2
+Added Pin To Net: NetName=PIO02 Pin=P1-2
+Added Net: Name=PIO02
+Added Pin To Net: NetName=PIO03 Pin=FPGA_Board1-3
+Added Pin To Net: NetName=PIO03 Pin=P1-3
+Added Net: Name=PIO03
+Added Pin To Net: NetName=PIO04 Pin=FPGA_Board1-4
+Added Pin To Net: NetName=PIO04 Pin=P1-4
+Added Net: Name=PIO04
+Added Pin To Net: NetName=PIO05 Pin=FPGA_Board1-5
+Added Pin To Net: NetName=PIO05 Pin=P1-5
+Added Net: Name=PIO05
+Added Pin To Net: NetName=PIO06 Pin=FPGA_Board1-6
+Added Pin To Net: NetName=PIO06 Pin=P1-6
+Added Net: Name=PIO06
+Added Pin To Net: NetName=PIO07 Pin=FPGA_Board1-7
+Added Pin To Net: NetName=PIO07 Pin=P1-7
+Added Net: Name=PIO07
+Added Pin To Net: NetName=PIO08 Pin=FPGA_Board1-8
+Added Pin To Net: NetName=PIO08 Pin=P1-8
+Added Net: Name=PIO08
+Added Pin To Net: NetName=PIO09 Pin=FPGA_Board1-9
+Added Pin To Net: NetName=PIO09 Pin=P1-9
+Added Net: Name=PIO09
+Added Pin To Net: NetName=PIO15 Pin=FPGA_Board1-15
+Added Pin To Net: NetName=PIO15 Pin=P1-15
+Added Net: Name=PIO15
+Added Pin To Net: NetName=PIO26 Pin=FPGA_Board1-26
+Added Pin To Net: NetName=PIO26 Pin=P2-23
+Added Net: Name=PIO26
+Added Pin To Net: NetName=PIO27 Pin=FPGA_Board1-27
+Added Pin To Net: NetName=PIO27 Pin=P2-22
+Added Net: Name=PIO27
+Added Pin To Net: NetName=PIO28 Pin=FPGA_Board1-28
+Added Pin To Net: NetName=PIO28 Pin=P2-21
+Added Net: Name=PIO28
+Added Pin To Net: NetName=PIO29 Pin=FPGA_Board1-29
+Added Pin To Net: NetName=PIO29 Pin=P2-20
+Added Net: Name=PIO29
+Added Pin To Net: NetName=PIO30 Pin=FPGA_Board1-30
+Added Pin To Net: NetName=PIO30 Pin=P2-19
+Added Net: Name=PIO30
+Added Pin To Net: NetName=PIO31 Pin=FPGA_Board1-31
+Added Pin To Net: NetName=PIO31 Pin=P2-18
+Added Net: Name=PIO31
+Added Pin To Net: NetName=PIO32 Pin=FPGA_Board1-32
+Added Pin To Net: NetName=PIO32 Pin=P2-17
+Added Net: Name=PIO32
+Added Pin To Net: NetName=PIO33 Pin=FPGA_Board1-33
+Added Pin To Net: NetName=PIO33 Pin=P2-16
+Added Net: Name=PIO33
+Added Pin To Net: NetName=PIO34 Pin=FPGA_Board1-34
+Added Pin To Net: NetName=PIO34 Pin=P2-15
+Added Net: Name=PIO34
+Added Pin To Net: NetName=PIO35 Pin=FPGA_Board1-35
+Added Pin To Net: NetName=PIO35 Pin=P2-14
+Added Net: Name=PIO35
+Added Pin To Net: NetName=PIO36 Pin=FPGA_Board1-36
+Added Pin To Net: NetName=PIO36 Pin=P2-13
+Added Net: Name=PIO36
+Added Pin To Net: NetName=PIO37 Pin=FPGA_Board1-37
+Added Pin To Net: NetName=PIO37 Pin=P2-12
+Added Net: Name=PIO37
+Added Pin To Net: NetName=PIO38 Pin=FPGA_Board1-38
+Added Pin To Net: NetName=PIO38 Pin=P2-11
+Added Net: Name=PIO38
+Added Pin To Net: NetName=PIO39 Pin=FPGA_Board1-39
+Added Pin To Net: NetName=PIO39 Pin=P2-10
+Added Net: Name=PIO39
+Added Pin To Net: NetName=VCOMP1 Pin=FPGA_Board1-13
+Added Pin To Net: NetName=VCOMP1 Pin=LevelTr1-2
+Added Pin To Net: NetName=VCOMP1 Pin=P1-13
+Added Net: Name=VCOMP1
+Added Pin To Net: NetName=VCOMP2 Pin=FPGA_Board1-14
+Added Pin To Net: NetName=VCOMP2 Pin=LevelTr1-3
+Added Pin To Net: NetName=VCOMP2 Pin=P1-14
+Added Net: Name=VCOMP2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component BNC3 BNC
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component D? LED3
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component P1 Header 24
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component P2 Header 24
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P8 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P9 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P11 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P12 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P13 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P14 Header 2
+Added Member To Class: ClassName=RWcircuit_1 Member=Component P15 Header 2
+Added Member To Class: ClassName=RWcircuit_2 Member=Component R3 RPot SM

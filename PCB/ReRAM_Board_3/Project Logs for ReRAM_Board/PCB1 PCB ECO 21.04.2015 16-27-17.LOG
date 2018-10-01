@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetP16_2 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetR10_1 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=NetR13_1 Pin=R14-2
+Change Component Library : Designator=R9 Old Library=Miscellaneous Devices.IntLib New Library=ReRAM_Board_library.IntLib
+Change Component Library : Designator=R11 Old Library=Miscellaneous Devices.IntLib New Library=ReRAM_Board_library.IntLib
+Change Component Library : Designator=R14 Old Library=Miscellaneous Devices.IntLib New Library=ReRAM_Board_library.IntLib
+Added Pin To Net: NetName=NetP16_2 Pin=R9-3
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-3
+Added Pin To Net: NetName=NetR13_1 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-3

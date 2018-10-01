@@ -1,0 +1,3 @@
+Added Component: Designator=T13(Test_point_1.32mm)
+Added Pin To Net: NetName=NetP21_2 Pin=T13-1
+Added Member To Class: ClassName=RWcircuit_1 Member=Component T13 Test_point

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetMUX6_22 Pin=P8-2
+Added Pin To Net: NetName=NetMUX6_22 Pin=P9-2
+Added Pin To Net: NetName=NetMUX6_22 Pin=P10-2
+Added Member To Class: ClassName=RWcircuit_2 Member=Component P9 Header 2

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetFPGA_Board1_5 Pin=FPGA_Board1-5
+Added Pin To Net: NetName=NetFPGA_Board1_5 Pin=FPGA_Board1-8
+Change Net Name : Old Net Name=NetFPGA_Board1_5 New Net Name=NetFPGA_Board1_8

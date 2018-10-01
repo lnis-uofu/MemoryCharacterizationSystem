@@ -1,0 +1,6 @@
+Added Component: Designator=R100(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R100-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=FPGA_board_and_power Member=Component R100 Res1

@@ -1,0 +1,36 @@
+Added Component: Designator=T1(Test_point_1.32mm)
+Added Component: Designator=T2(Test_point_1.32mm)
+Added Component: Designator=T3(Test_point_1.32mm)
+Added Component: Designator=T4(Test_point_1.32mm)
+Added Component: Designator=T5(Test_point_1.32mm)
+Added Component: Designator=T6(Test_point_1.32mm)
+Added Component: Designator=T7(Test_point_1.32mm)
+Added Component: Designator=T8(Test_point_1.32mm)
+Added Component: Designator=T9(Test_point_1.32mm)
+Added Component: Designator=T10(Test_point_1.32mm)
+Added Component: Designator=T11(Test_point_1.32mm)
+Added Component: Designator=T12(Test_point_1.32mm)
+Added Pin To Net: NetName=VSET Pin=T1-1
+Added Pin To Net: NetName=VRESET Pin=T2-1
+Added Pin To Net: NetName=VFORM Pin=T3-1
+Added Pin To Net: NetName=NetR11_2 Pin=T4-1
+Added Pin To Net: NetName=NetP18_2 Pin=T5-1
+Added Pin To Net: NetName=NetLevelTr1_13 Pin=T6-1
+Added Pin To Net: NetName=NetR10_1 Pin=T7-1
+Added Pin To Net: NetName=NetLevelTr1_12 Pin=T8-1
+Added Pin To Net: NetName=NetP20_2 Pin=T9-1
+Added Pin To Net: NetName=NetDACA1_14 Pin=T10-1
+Added Pin To Net: NetName=NetT11_1 Pin=T11-1
+Added Pin To Net: NetName=NetDACB1_14 Pin=T12-1
+Added Member To Class: ClassName=RWcircuit_1 Member=Component T1 Test_point
+Added Member To Class: ClassName=RWcircuit_1 Member=Component T2 Test_point
+Added Member To Class: ClassName=RWcircuit_1 Member=Component T3 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T4 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T5 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T6 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T7 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T8 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T9 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T10 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T11 Test_point
+Added Member To Class: ClassName=RWcircuit_2 Member=Component T12 Test_point

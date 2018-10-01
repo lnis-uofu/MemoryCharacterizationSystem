@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=PNP New DesignItemId=MMBT5086_PNP
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=PNP New DesignItemId=MMBT5086_PNP
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23B_M New Footprint=SOT-23
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23B_M New Footprint=SOT-23
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R17-2
+Added Net: Name=NetQ2_2

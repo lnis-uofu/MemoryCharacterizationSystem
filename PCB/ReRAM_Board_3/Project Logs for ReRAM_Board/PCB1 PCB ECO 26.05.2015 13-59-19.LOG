@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P2_1-34
+Removed Pin From Net: NetName=GND Pin=RR1-84
+Change Component Designator: OldDesignator=P1_1 NewDesignator=P1
+Change Component Designator: OldDesignator=P2_1 NewDesignator=P2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-30
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-31
+Added Pin To Net: NetName=GND Pin=RR1-4
+Added Pin To Net: NetName=GND Pin=RR1-30
+Added Pin To Net: NetName=GND Pin=RR1-55
+Added Pin To Net: NetName=GND Pin=RR1-81
+Change Net Name : Old Net Name=GND New Net Name=GND1
+Added Member To Class: ClassName=MemoryChip Member=Component P1 Header 25X2
+Added Member To Class: ClassName=MemoryChip Member=Component P2 Header 25X2
+Added Member To Class: ClassName=MemoryChip Member=Component RR1 ReRAM chip

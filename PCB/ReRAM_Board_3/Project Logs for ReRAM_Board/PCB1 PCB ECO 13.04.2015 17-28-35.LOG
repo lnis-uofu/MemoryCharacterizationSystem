@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetMUX6_22 Pin=P8-2
+Removed Pin From Net: NetName=NetMUX6_22 Pin=P10-2
+Added Component: Designator=P9(HDR1X2)
+Added Pin To Net: NetName=NetBNC3_1 Pin=BNC3-1
+Added Pin To Net: NetName=NetBNC3_1 Pin=P9-1
+Added Net: Name=NetBNC3_1
+Added Member To Class: ClassName=RWcircuit_2 Member=Component P9 Header 2

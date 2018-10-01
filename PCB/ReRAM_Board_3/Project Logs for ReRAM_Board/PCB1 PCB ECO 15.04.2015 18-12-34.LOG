@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VSUPPLY Pin=C14-1
+Removed Pin From Net: NetName=VSUPPLY Pin=DC1-22
+Removed Pin From Net: NetName=VSUPPLY Pin=DC1-23
+Removed Pin From Net: NetName=VSUPPLY Pin=FPGA_Board1-24
+Added Pin To Net: NetName=NetJ1_2 Pin=C14-1
+Added Pin To Net: NetName=NetJ1_2 Pin=DC1-22
+Added Pin To Net: NetName=NetJ1_2 Pin=DC1-23
+Added Pin To Net: NetName=NetJ1_2 Pin=FPGA_Board1-24
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=VSUPPLY
+Change Net Name : Old Net Name=VSUPPLY New Net Name=NetJ1_3

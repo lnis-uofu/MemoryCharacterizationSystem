@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetDACB1_14 Pin=DACB1-14
+Added Pin To Net: NetName=NetDACB1_14 Pin=DACB1-15
+Added Pin To Net: NetName=NetDACB1_14 Pin=DACB1-16
+Added Pin To Net: NetName=NetDACB1_14 Pin=U3-2
+Added Net: Name=NetDACB1_14

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      bisconti
+HostName                       lsisrv1.epfl.ch
+ProcessIdentifier              18594
+ProcessCreationTime_UTC        1432824185
+ProcessCreationTime_Readable   Thu May 28 16:43:05 2015 CEST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/bisconti/msc_project/virtuoso/DWL_template/LITHO_TEST/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Thu May 28 20:45:45 2015 CEST

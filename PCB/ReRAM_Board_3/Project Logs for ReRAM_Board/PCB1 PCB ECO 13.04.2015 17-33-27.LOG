@@ -1,0 +1,7 @@
+Added Component: Designator=P8(HDR1X2)
+Added Pin To Net: NetName=NetMUX6_22 Pin=P8-2
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=R4-1
+Added Pin To Net: NetName=NetP8_1 Pin=U1-6
+Added Net: Name=NetP8_1
+Added Member To Class: ClassName=RWcircuit_2 Member=Component P8 Header 2

@@ -1,0 +1,49 @@
+
+ ¸,ø¤º°`°º¤ø,¸¸,ø¤º°  LNIS at University of Utah  °º¤ø,¸¸,ø¤º°`°º¤ø,¸
+                   Prof. Pierre-Emmanuel Gaillardon
+                  pierre-emmanuel.gaillardon@utah.edu
+
+*--------------------------------------------------------------------------
+* Memory Characterization System Development Package README
+*--------------------------------------------------------------------------
+
+* Readme File Author : Armando Biscontini
+* Created On 	       : September 8, 2016
+* Last Modified On   : September 8, 2016
+* Description	       : This file describes the  directory structure
+*                      of the MCS Development Package
+*--------------------------------------------------------------------------
+
+*** Disclaimer
+
+This program is free software. It comes without any warranty, to
+the extent permitted by applicable law. You can redistribute it
+and/or modify it under the terms of the GNU Lesser General Public License, Version 3.
+See https://www.gnu.org/licenses/lgpl-3.0.txt for more details.
+
+If you use any of the material that comes along with this package, please refer to the
+following paper for citation purpose:
+
+A. Biscontini, M. Thammasack, G. De Micheli and P.-E. Gaillardon,
+"An FPGA-Based Test System for RRAM Technology Characterization"
+
+
+*** MCS Dev Package Directory Structure
+
+▾ MCS_dev_package/
+
+  ▾  PCB/						    : Contains the files regarding the MCS printed circuit board design.
+    
+    ▸ Datasheets/ 			: Folder containing the datasheets of the component that are mounted on the PCB.
+    
+    ▸ ReRAM Libraries/  : Altium design libraries necessary for a complete dasgn of the MCS. 
+    
+    ▸ ReRAM_Board_3/    : Altium design project folder.
+  
+  ▾ chip_and_custom_socket_3DCAD/
+
+    ▸ LSI-PLLGA100_0.9.4/        : Folder containing the SolidWorks CAD files of the of the chip.
+
+    ▸ LPF100-0691-15AB55L.PDF    : CAD drawing of the custom socket.
+
+  ▾ chip_cadence_files       : Folder that holds all the Cadence design files of the chip.
