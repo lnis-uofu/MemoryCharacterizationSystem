@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=MODERW0 Pin=FPGA_Board1-2
-Removed Pin From Net: NetName=MODERW1 Pin=FPGA_Board1-3
-Added Pin To Net: NetName=MODERW0 Pin=FPGA_Board1-6
-Added Pin To Net: NetName=MODERW1 Pin=FPGA_Board1-7
-Added Pin To Net: NetName=NetFPGA_Board1_1 Pin=FPGA_Board1-1
-Added Pin To Net: NetName=NetFPGA_Board1_1 Pin=MUX6-18
-Added Net: Name=NetFPGA_Board1_1

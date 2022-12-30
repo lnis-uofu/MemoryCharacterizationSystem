@@ -1,9 +1,0 @@
-Added Component: Designator=H1(M3_hole)
-Added Component: Designator=H2(M3_hole)
-Added Component: Designator=H3(M3_hole)
-Added Pin To Net: NetName=GND Pin=H1-1
-Added Pin To Net: NetName=GND Pin=H2-1
-Added Pin To Net: NetName=GND Pin=H3-1
-Added Member To Class: ClassName=RWcircuit_2 Member=Component H1 M3_hole
-Added Member To Class: ClassName=RWcircuit_2 Member=Component H2 M3_hole
-Added Member To Class: ClassName=RWcircuit_2 Member=Component H3 M3_hole

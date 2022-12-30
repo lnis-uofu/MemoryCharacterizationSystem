@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetMUX6_22 Pin=P8-2
-Removed Member From Class: ClassName=RWcircuit_2 Member=P8
-Added Pin To Net: NetName=NetR4_1 Pin=R4-1
-Added Pin To Net: NetName=NetR4_1 Pin=U1-6
-Added Net: Name=NetR4_1

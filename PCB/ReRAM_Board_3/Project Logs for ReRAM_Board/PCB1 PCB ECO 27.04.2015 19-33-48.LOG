@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=RWcircuit_1 Member=P4
-Removed Member From Class: ClassName=FPGA_board_and_power Member=P7
-Removed Member From Class: ClassName=FPGA_board_and_power Member=P9
-Change Component Footprint: Designator=Q1 Old Footprint=SOT-23B_N New Footprint=SOT-23B_M
-Change Component Footprint: Designator=Q2 Old Footprint=SOT-23B_N New Footprint=SOT-23B_M
-Added Member To Class: ClassName=FPGA_board_and_power Member=Component P3 Header 2
-Added Member To Class: ClassName=RWcircuit_1 Member=Component P13 Header 2

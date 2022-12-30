@@ -1,6 +1,0 @@
-Change Component DesignItemId : Designator=R13 Old DesignItemId=Trim_Bourns_3266X New DesignItemId=Trim_Bourns_3266W
-Change Component DesignItemId : Designator=R11 Old DesignItemId=Trim_Vishay_70_Series New DesignItemId=Trim_Bourns_3266W
-Change Component DesignItemId : Designator=R14 Old DesignItemId=Trim_Vishay_70_Series New DesignItemId=Trim_Bourns_3266W
-Change Component Footprint: Designator=R13 Old Footprint=Trim_Bourns_3266X New Footprint=Trim_Bourns_3266W
-Change Component Footprint: Designator=R11 Old Footprint=Trim_Vishay_70_Series New Footprint=Trim_Bourns_3266W
-Change Component Footprint: Designator=R14 Old Footprint=Trim_Vishay_70_Series New Footprint=Trim_Bourns_3266W

@@ -1,4 +1,0 @@
-Added Component: Designator=R14(VR3)
-Added Pin To Net: NetName=NetR13_1 Pin=R14-1
-Added Pin To Net: NetName=GND Pin=R14-3
-Added Member To Class: ClassName=RWcircuit_2 Member=Component R14 RPot

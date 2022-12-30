@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=R100-1
-Removed Pin From Net: NetName=GND Pin=R100-2
-Removed Member From Class: ClassName=FPGA_board_and_power Member=R100
-Added Pin To Net: NetName=NetC1_2 Pin=U1-4
-Added Pin To Net: NetName=NetC1_2 Pin=U1-8
-Change Net Name : Old Net Name=NetC1_2 New Net Name=5V
-Change Net Name : Old Net Name=NetC4_1 New Net Name=-5V
-Change Net Name : Old Net Name=NetC13_1 New Net Name=3.3V
-Change Net Name : Old Net Name=NetC14_1 New Net Name=VSUPPLY

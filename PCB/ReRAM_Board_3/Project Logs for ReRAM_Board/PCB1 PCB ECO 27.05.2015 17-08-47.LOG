@@ -1,4 +1,0 @@
-Removed Member From Class: ClassName=FPGA_board_and_power Member=P23
-Removed Member From Class: ClassName=FPGA_board_and_power Member=P24
-Added Member To Class: ClassName=FPGA_board_and_power Member=Component P1 Header 24
-Added Member To Class: ClassName=FPGA_board_and_power Member=Component P2 Header 24
